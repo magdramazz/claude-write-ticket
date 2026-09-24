@@ -163,3 +163,7 @@ without creating it.
 
 The ticket format lives in `references/ticket-format.md` and nowhere else. If the team changes
 the standard, change it there — do not keep a second copy.
+
+## License
+
+[MIT](LICENSE)
